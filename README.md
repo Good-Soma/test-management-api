@@ -4,7 +4,7 @@
 
 I design, build, document and secure softwares for **businesses, startups, and developers** 
 
-I turn technical requirements in reliable, performant digital product through **software development, technical communication, user experience, and application security** 
+I turn technical requirements into reliable, performant digital product through. 
 ---
 
 ## What I Do
@@ -15,7 +15,6 @@ I develop web applications, APIs, and software products across different stacks.
 
 - Frontend development
 - Backend development
-- Full-stack development
 - REST APIs and integrations
 - Database design and implementation
 - Authentication and authorization
@@ -24,19 +23,17 @@ I develop web applications, APIs, and software products across different stacks.
 
 ### 🎨 Design
 
-I craft intuitive digital interfaces around real user expectations and business goals.
+I design intuitive digital interfaces based on business goals and user's expectation.
 
 - UI/UX design
 - User flows
 - Wireframes
-- Responsive interface design
-- Design systems
 - Usability improvements
 - Accessibility considerations
 
 ### 📝 Document
 
-I provide comprehensible context about digital products that developers and non technical that can follow.
+I provide straightforward, down to the earth documentation about softwares capabilities and how-to that developers and non technical members can follow.
 
 - API documentation
 - Developer documentation
@@ -55,13 +52,10 @@ I help identify and improve weaknesses in existing digital products.
 - Accessibility
 - SEO and technical discoverability
 - Code quality and maintainability
-- Application usability
-- Technical documentation
-- Development workflows
-
+- 
 ### 🔐 Secure
 
-I perform **authorized security research and assessment** to help identify weaknesses before they become bigger problems.
+I perform **authorized security research and assessment** to help identify weaknesses before they become problematic.
 
 - Vulnerability assessment
 - Authorized penetration testing
@@ -84,13 +78,13 @@ That's why my work connects:
 
 **Design → Build → Document → Improve → Secure**
 
-Depending on the project, I can contribute to one stage or work across multiple stages of the product lifecycle.
+Depending on the project, I can contribute to one stage or work across multiple stages of the product lifecycle. versatility is my strength.
 
 ---
 
 ## 🛠️ Selected Work
 
-This profile contains practical projects, technical writing samples, development work, UI/UX case studies, security labs, research, and experiments demonstrating how I approach real technical problems.
+This profile also contains practical projects, technical writing samples, development work, UI/UX case studies, security labs, research, and experiments demonstrating how I approach real technical problems.
 
 ### 📝 Technical Writing
 
@@ -155,7 +149,7 @@ This profile contains practical projects, technical writing samples, development
 
 ## 🧠 My Approach
 
-I don't believe in building software simply because something can be built.
+Before I build any digital product for you.
 
 I start by understanding the:
 
@@ -165,9 +159,7 @@ From there, I determine the appropriate:
 
 **Approach → Architecture → Technology → Implementation → Documentation → Testing → Improvement**
 
-The goal is not simply to demonstrate technical ability.
-
-The goal is to **solve the actual problem and create measurable value.**
+My goal is to **solve the actual problem and create concrete value.**
 
 ---
 
@@ -194,16 +186,12 @@ Have a product to build, an existing application to improve, a system that needs
 
 **Let's discuss what you're trying to achieve and determine how I can help.**
 
-📧 **Email:** `your-email@example.com`
+📧 **Email:** `somafina@gmail.com`
 
-💼 **LinkedIn:** [Your LinkedIn Profile](#)
-
-🌐 **Portfolio:** [Your Portfolio](#)
-
+💼 **LinkedIn:** [https://www.linkedin.com/in/goodluck-chukwuemeka21?utm_source=share_via&utm_content=profile&utm_medium=member_android](#)
 ---
 
 ### 📌 About This Portfolio
 
 This repository is continuously updated with new **projects, technical documentation, experiments, case studies, security research, and development work**.
 
-Each project is built to demonstrate practical problem-solving, technical understanding, clear communication, and the ability to deliver useful solutions.
