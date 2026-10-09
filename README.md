@@ -186,9 +186,9 @@ Have a product to build, an existing application to improve, a system that needs
 
 **Let's discuss what you're trying to achieve and determine how I can help.**
 
-📧 **Email:** `somafina@gmail.com`
+[📧 **Email:**](`somadina.dev@gmail.com`)
 
-💼 **LinkedIn:** [https://www.linkedin.com/in/goodluck-chukwuemeka21?utm_source=share_via&utm_content=profile&utm_medium=member_android](#)
+ [💼 **LinkedIn:**](https://www.linkedin.com/in/goodluck-chukwuemeka21?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 ---
 
 ### 📌 About This Portfolio
